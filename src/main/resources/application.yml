@@ -1,0 +1,11 @@
+global-env:
+  runningEnv: 1
+
+test-env:
+  apiUrl:
+    svcUrl: http://a.io.tzj.net/core.bid.svc
+
+pro-env:
+  apiUrl:
+    svcUrl: http://a.io.touzhijia.com/core.bid.svc
+
